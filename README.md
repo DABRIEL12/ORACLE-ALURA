@@ -4,3 +4,5 @@
 Para ejecutar el sistema debes hacer lo siguiente:
 
 '''npm install react'''
+
+OSEA ESTE ES EL SEGUNDO CAMBIO
